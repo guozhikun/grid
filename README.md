@@ -1,5 +1,9 @@
-# generator
+# grid
+```
+模块拖动demo
+![image](https://github.com/guozhikun/grid/blob/master/public/demo.gif) 
 
+```
 ## Project setup
 ```
 npm install
